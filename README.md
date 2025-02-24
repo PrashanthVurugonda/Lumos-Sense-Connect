@@ -47,7 +47,7 @@ Ensure you have:
 
 ### Clone the Repository  
 ```sh  
-git clone https://github.com/yourusername/lumos-sense-connect.git  
+git clone https://github.com/PrashanthVurugonda/lumos-sense-connect.git  
 cd lumos-sense-connect  
 ```
 
